@@ -1,6 +1,5 @@
 INSERT INTO Users (name, email) VALUES
-('David', 'david@email.com'),
-('John', 'john@email.com');
+('David', 'david@email.com');
 
 INSERT INTO PaymentMethods (user_id, card_last4, card_type) VALUES
 (1, '1234', 'Visa'),

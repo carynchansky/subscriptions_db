@@ -25,4 +25,3 @@ A MySQL + Python CLI app to track subscriptions, payments, and spending.
 - SubscriptionCategories: M:N relation
 
 ## Reflection
-(Write 2–3 paragraphs about what you learned)
